@@ -24,6 +24,9 @@ so it will not pass some Continuous Integration (CI) checks. -->
 <br/>
 
 <!-- Links to social media with badges -->
+<!-- The src URLs below is long because it includes query parameters to generate styled badges. 
+Breaking it into multiple lines would make the badge display incorrectly or not at all. 
+This is why it doesn't pass CI checks. -->
 <div align="center">
     <a href="mailto:mnageeb153@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
@@ -35,6 +38,7 @@ so it will not pass some Continuous Integration (CI) checks. -->
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
     </a>
 </div>
+
 
 <hr/>
 
