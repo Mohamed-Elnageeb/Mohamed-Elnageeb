@@ -16,12 +16,10 @@ so it will not pass some Continuous Integration (CI) checks. -->
       </a>
    </h1>
    <h3 align="center">
-      A passionate Mechatronics Engineering student and an Experienced Competitive Programmer
+      A passionate Mechatronics Engineering student and
+      an Experienced Competitive Programmer
    </h3>
 </div>
-
-
-
 
 <br/>
 
