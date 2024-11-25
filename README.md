@@ -6,9 +6,12 @@ so it will not pass some Continuous Integration (CI) checks. -->
    <h1 align="center">
       <a href="https://git.io/typing-svg">
          <!-- Typing animation -->
-         <img 
-            src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Mohamed+Elnageeb!" 
-            alt="Typing Animation" 
+         <!-- The src URL below is long because it contains query parameters to generate the animation. 
+              Breaking it into multiple lines would make the animation stop working. 
+              This is why it doesn't pass CI checks. -->
+         <img
+            src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Mohamed+Elnageeb!"
+            alt="Typing Animation"
          />
       </a>
    </h1>
@@ -16,6 +19,7 @@ so it will not pass some Continuous Integration (CI) checks. -->
       A passionate Mechatronics Engineering student and an Experienced Competitive Programmer
    </h3>
 </div>
+
 
 
 
