@@ -5,7 +5,8 @@
 ## 🎓 About Me
 
 - 🎓 **Final-year Mechatronics Engineering Student**  
-- 💻 **Competitive Programming Enthusiast**  
+- 💻 **Experienced Competitive Programming Enthusiast**  
+- 🤖 **AI and Data Science Enthusiast**  
 - 📊 Passionate about **Computational Methods & Mathematics**  
 - 🌱 **Gardening Lover** – finding peace in nature!  
 - ⚽ **Barcelona FC Fan** – Força Barça!  
@@ -15,17 +16,18 @@
 ## 🔧 Technologies & Skills
 
 - **Languages**: C++, Python, MATLAB  
-- **Fields**: Computational Math, Vibration Analysis, Dynamic Systems, and Computational Fluid Dynamics (CFD)  
+- **Fields**: Computational Math, Vibration Analysis, Dynamic Systems,
+Computational Fluid Dynamics (CFD)  
 - **Hobbies**: Solving Algorithms, Building Creative Engineering Solutions  
 
 ---
 
 ## 🌟 Fun Facts
 
-- 🏆 **Competitive Programming** has sharpened my problem-solving and math skills.  
-- 🚀 I'm fascinated by **space technologies** and the future of **sustainable engineering**.  
-- 🧮 A lover of **numbers** and how they shape the world around us.  
-- 🌻 I balance my technical world with a love for **gardening** – where math meets nature.  
+- 🏆 **Competitive Programming** has sharpened my problem-solving
+and math skills.    
+- 🧮 A lover of **numbers** and how they shape the world around us.
+- 💪 I'm also a **bodybuilder**!, kinda 🤷‍♂️
 
 ---
 
