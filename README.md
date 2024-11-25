@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Mohamed Elnageeb! 👨‍💻
 
-![Coding Animation](https://raw.githubusercontent.com/Mohamed-Elnageeb/Mohamed-Elnageeb/main/assets/coding.gif)
+![Do Not Touch It Programmer](https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif)
+
 
 ---
 
