@@ -54,9 +54,9 @@ and math skills.
 
 ---
 
-![Do Not Touch It Programmer]
-(https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif)
+![Do Not Touch It](https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif)
 
 ---
 
-> *Let's connect, share knowledge, and build solutions to make the world a better place!*
+> *Let's connect, share knowledge, and build solutions
+> to make the world a better place!*
