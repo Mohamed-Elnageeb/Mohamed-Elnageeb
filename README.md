@@ -25,7 +25,7 @@ Computational Fluid Dynamics (CFD)
 ## 🌟 Fun Facts
 
 - 🏆 **Competitive Programming** has sharpened my problem-solving
-and math skills.    
+and math skills.
 - 🧮 A lover of **numbers** and how they shape the world around us.
 - 💪 I'm also a **bodybuilder**!, kinda 🤷‍♂️
 
@@ -41,7 +41,8 @@ and math skills.
 ## 📫 How to Reach Me
 
 - ✨ Instagram: [@moe_nageeb153](https://www.instagram.com/moe_nageeb153/)  
-- 💼 LinkedIn: [Mohamed Elnageeb](https://www.linkedin.com/in/mohamed-elnageeb/)  
+- 💼 LinkedIn:
+[Mohamed Elnageeb](https://www.linkedin.com/in/mohamed-elnageeb/)  
 - 📬 Email: [mnageeb153@gmail.com](mailto:mnageeb153@gmail.com)  
 
 ---
@@ -53,7 +54,8 @@ and math skills.
 
 ---
 
-![Do Not Touch It Programmer](https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif)
+![Do Not Touch It Programmer]
+(https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif)
 
 ---
 
