@@ -1,5 +1,5 @@
-# 👋 Hi there, I'm Mohamed Elnageeb! 👨‍💻
 
+# 👋 Hi there, I'm Mohamed Elnageeb! 👨‍💻
 
 ---
 
@@ -16,7 +16,7 @@
 ## 🔧 Technologies & Skills
 
 - **Languages**: C++, Python, MATLAB  
-- **Fields**: Computational Math, Vibration Analysis, Dynamic Systems  
+- **Fields**: Computational Math, Vibration Analysis, Dynamic Systems and Computational Fluid dynamics (CFD)
 - **Hobbies**: Solving Algorithms, Building Creative Engineering Solutions  
 
 ---
@@ -32,32 +32,27 @@
 
 ## 🛠️ Ongoing Projects
 
-- 💡 **Vibration Isolation for 3D Printers**  
-- 🔢 **Computational Math Algorithms**  
+- 💡 **Vibration Isolation for 3D Printers**   
 - 🚀 **CubeSat Ion Thruster Design**  
 
 ---
 
 ## 📫 How to Reach Me
 
-- 🐦 Twitter: [@the_last_smilodon](https://twitter.com/the_last_smilodon)  
+- ✨ Instagram: [@moe_nageeb153](https://www.instagram.com/moe_nageeb153/)  
 - 💼 LinkedIn: [Mohamed Elnageeb](https://www.linkedin.com/in/mohamed-elnageeb/)  
-- 📬 Email: [elnageeb.me@gmail.com](mailto:elnageeb.me@gmail.com)  
-
----
-
-### 🌟 "Math is not just numbers; it's the language of the universe."  
-
-![Do Not Touch It Programmer](https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif)
-
+- 📬 Email: [mnageeb153@gmail.com](mnageeb153@gmail.com)  
 
 ---
 
 ### 🖱️ Check Out My Work:
 
-- 💻 [GitHub Projects](https://github.com/Mohamed-Elnageeb)  
+- 💻 [GitHub Profile](https://github.com/Mohamed-Elnageeb)  
 - 📈 [Codeforces Profile](https://codeforces.com/profile/the_last_smilodon)  
 
 ---
 
+![Do Not Touch It Programmer](https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif)
+
+---
 > *Let's connect, share knowledge, and build solutions to make the world a better place!*
