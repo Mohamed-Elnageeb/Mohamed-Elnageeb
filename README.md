@@ -70,12 +70,7 @@ This is why it doesn't pass CI checks. -->
 
 <br/><br/>
 
-<!-- Fun GIF -->
-<div align="center">
-   <img src="https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif" alt="Do Not Touch It Programmer" />
-</div>
 
-<br/><br/>
 <hr/>
 
 <h3 align="center">
