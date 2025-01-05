@@ -85,6 +85,5 @@ This is why it doesn't pass CI checks. -->
 
 <!-- Snake animation -->
 <div align="center">
-   <p>Watch this snake eat my non-existent contributions LOL!</p>
    <img src="https://github.com/Mohamed-Elnageeb/Mohamed-Elnageeb/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
